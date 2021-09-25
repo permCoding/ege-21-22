@@ -70,7 +70,7 @@
 1) разобрали задачу 3 - решение в Excel  
 2) начали изучать синтаксис Питона - ввод/вывод:  
 [Блокнот-01 Диалог с пользователем](https://colab.research.google.com/drive/183_JbFUgMHB1C4sUUdCkYyrkBw8wIkT5?usp=sharing)  
-[Запись видео трансляции:](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1632544769069)  
+[Запись видео трансляции](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1632544769069)  
 
 ---  
 
