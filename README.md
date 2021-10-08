@@ -62,6 +62,11 @@
 
 **ДЕНЬ-01 25.09.2021**  
 **Алгоритмы, программы, языки...**  
+
+[Блокнот-01 Диалог с пользователем](https://colab.research.google.com/drive/1dlkk5tIF6z55tG9kXYewJO5Hx30pqi-C?usp=sharing)  
+
+[Запись видео трансляции](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1632544769069)  
+
 > Краткий обзор курса  
 > Обзор используемых средств и технологий  
 > Обзор задач ЕГЭ  
@@ -69,10 +74,23 @@
 
 1) разобрали задачу 3 - решение в Excel  
 2) начали изучать синтаксис Питона - ввод/вывод:  
-[Блокнот-01 Диалог с пользователем](https://colab.research.google.com/drive/183_JbFUgMHB1C4sUUdCkYyrkBw8wIkT5?usp=sharing)  
-[Запись видео трансляции](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1632544769069)  
 
 ---  
+
+**ДЕНЬ-02 09.10.2021**  
+**Программа на языке Питон**  
+
+[Блокнот-01 Диалог с пользователем](https://colab.research.google.com/drive/1dlkk5tIF6z55tG9kXYewJO5Hx30pqi-C?usp=sharing)  
+
+[Запись видео трансляции - нужно поменять на новую](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1632544769069)  
+
+> Переменные и типы данных  
+> Операции  
+> Ветвления и циклы  
+
+1) обсудим задачу 14 - решение "руками"  
+
+> что нужно знать, чтобы её решить на Питоне  
 
 ```txt
 
