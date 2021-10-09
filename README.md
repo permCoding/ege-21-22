@@ -82,7 +82,7 @@
 
 [Блокнот-01 Диалог с пользователем](https://colab.research.google.com/drive/1dlkk5tIF6z55tG9kXYewJO5Hx30pqi-C?usp=sharing)  
 
-[Запись видео трансляции - нужно поменять на новую](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1632544769069)  
+[Запись видео трансляции](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1633755106539)  
 
 > Переменные и типы данных  
 > Операции  
