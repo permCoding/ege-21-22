@@ -1,7 +1,7 @@
 def bin_to_dec(x):
     k = len(x)
     y = 0
-    for i in range(k):
+    for i in range(k):  # цикл по индексам
         y += int(x[i]) * 2**(k-1-i)
     return y
 
