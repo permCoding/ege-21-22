@@ -100,6 +100,11 @@
 [Запись видео трансляции - тут будет ссылка]()  
 
 > Все решения будут в папке за день 2021-10-23  
+> или в repl  
+https://replit.com/@pCoding/task-16-1#main.py  
+https://replit.com/@pCoding/example-01py#main.py  
+https://replit.com/@pCoding/example-02py#main.py  
+
 > Системы счисления    
 > Ветвления и циклы  
 
