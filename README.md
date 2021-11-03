@@ -27,7 +27,8 @@
 ### Дистанционные занятия тут:  
 
 * [Через BBB6](https://bbb6.psaa.ru/b/qt6-06w-o09-6wz)  
-* [Через BBB5](https://bbb5.psaa.ru/b/and-jxn-mr6)  
+Если не работает сервер BBB6, то будем заниматься через BBB3:  
+* [Через BBB3](https://bbb3.psaa.ru/b/crk-eif-gxb-wz5)  
 * [Через Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)  
 * [Через Discord](https://discord.gg/ZK4kgdn)  
 
@@ -109,7 +110,7 @@
 **ДЕНЬ-03 23.10.2021**  
 **Решаем задачи на языке Питон**  
 
-[Запись видео трансляции - тут будет ссылка]()  
+[Запись видео трансляции](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1634963374986)  
 
 > Все решения будут в папке за день 2021-10-23  
 > или в repl  
