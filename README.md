@@ -5,6 +5,13 @@
 - количество аудиторных часов - 124;  
 - количество часов на самостоятельную работу - 70.  
 
+```txt  
+Расписание пар:  
+10:00 - 11:20  
+11:30 - 12:50  
+13:00 - 14:20  
+```  
+
 ### БЕЛЯКОВ Андрей Юрьевич  
 [![VK](https://pcoding.ru/ico/vk.png)](https://vk.com/permCube) 
 [![telegram](https://pcoding.ru/ico/telegram.png)](https://t.me/AndreyPerm) 
