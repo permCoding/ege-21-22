@@ -21,7 +21,7 @@
 ### [Наша группа в ВК](https://vk.com/algohack)  
 ### [Контрольные работы на Степике](https://stepik.org/63529)  
 ### [Сайт для решения задач ЕГЭ inf-ege.sdamgia](https://inf-ege.sdamgia.ru/)  
-
+### [Сайт Константина Полякова](https://kpolyakov.spb.ru/school/ege/tests.htm)  
 ---
 
 ### Дистанционные занятия тут:  
