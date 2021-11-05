@@ -33,7 +33,7 @@
 ### Дистанционные занятия тут:  
 
 * [Через BBB6](https://bbb6.psaa.ru/b/qt6-06w-o09-6wz)  
-* [Если не работает сервер BBB6, то через BBB3](https://bbb3.psaa.ru/b/crk-eif-gxb-wz5)  
+* [Через BBB3, если не работает сервер BBB6](https://bbb3.psaa.ru/b/crk-eif-gxb-wz5)  
 * [Через Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)  
 * [Через Discord](https://discord.gg/ZK4kgdn)  
 
