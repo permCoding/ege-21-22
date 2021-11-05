@@ -14,6 +14,10 @@
 13:00 - 14:20  
 ```  
 
+[ДНИ ЗАНЯТИЙ И ИЗУЧАЕМЫЕ ВОПРОСЫ](days.md)  
+
+---  
+
 ### БЕЛЯКОВ Андрей Юрьевич  
 [![VK](https://pcoding.ru/ico/vk.png)](https://vk.com/permCube) 
 [![telegram](https://pcoding.ru/ico/telegram.png)](https://t.me/AndreyPerm) 
