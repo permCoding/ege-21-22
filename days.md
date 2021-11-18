@@ -15,6 +15,7 @@
 - [day02](#day02)  
 - [day03](#day03)  
 - [day04](#day04)  
+- [day05](#day05)  
 
 ---  
 
@@ -98,6 +99,24 @@ https://kpolyakov.spb.ru/school/ege/generate.htm#custom
 номера задач: 4101, 4151, 4152, 4153, 4100, 4099, 4098, 4097, ..., 4085  
 2) закрепляем навыки написания простых программ  
 https://stepik.org/lesson/423373/step/1?unit=413088  
+
+---  
+
+## day05  
+
+**20.11.2021**  
+**Практика программирования. Строки.**  
+
+Для начального уровня  
+1) разминка: https://stepik.org/lesson/619774/step/2?unit=615298  
+
+2) обсуждаем задачу 8 из ДЕМО-версии  
+
+3) Изучаем работу со строками в Питоне - [Блокнот Google Colab](https://colab.research.google.com/drive/1K6ZqgRuW44ixCVAnPflMA3AiEl4F9hLy?usp=sharing)  
+
+4) тренируемся решать задачу 24 со строками  
+- из ДЕМО-версии  
+- из https://inf-ege.sdamgia.ru/  
 
 ```txt
 
