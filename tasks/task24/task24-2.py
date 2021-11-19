@@ -7,8 +7,8 @@
 PRPPPRQSPP
 Ответ: 5
 '''
-
-line = 'PRP'
+f = open('input.txt')
+line = f.readline()
 
 count = 1
 mcount = 0

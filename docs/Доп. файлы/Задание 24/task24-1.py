@@ -10,7 +10,7 @@ PRPPPRQSPP
 f = open('24.txt')
 line = f.readline()
 
-count = 0
+count = 1
 mcount = 0
 for i in range(1, len(line)):
     if line[i-1] == line[i] == 'P':
