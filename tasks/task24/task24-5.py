@@ -7,16 +7,22 @@
 PRPPPRQSPP
 Ответ: 5
 '''
-f = open('input.txt')
-line = f.readline()
 
-count = 1
-mcount = 0
-for i in range(1, len(line)):
-    if line[i-1] == line[i] == 'P':
+line = 'PRP'
+line = 'PRPPPRQSPPQSQQSPRQRRRRSSRPSRSSRSSSSPRQRPQRPPQQSSPSP'
+# f = open('input.txt')
+# line = f.readline()
+
+count, max_count = 1, 1
+pred = ''
+for smb in line:
+    if pred == '':
+        pred = smb
+        count = 1
+    elif pred == smb and pred == 'P':
         count = 1
     else:
+        pred = smb
         count += 1
-        if count > mcount:
-            mcount = count
-print(mcount)
+        max_count = max(count, max_count)
+print(max_count)

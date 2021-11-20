@@ -17,6 +17,6 @@ for i in range(1, len(line)):
         count = 1
     else:
         count += 1
-    if count > mcount:
-        mcount = count
+        if count > mcount:
+            mcount = count
 print(mcount)
