@@ -118,6 +118,16 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 - из ДЕМО-версии  
 - из https://inf-ege.sdamgia.ru/  
 
+---  
+
+## day06  
+
+**02.12.2021**  
+**Как начать решать задачи на Питоне.**  
+
+[Блокнот с решениями](https://colab.research.google.com/drive/1pTvWKworXWMfVYC6PWsHCdqnpeKDGx54?usp=sharing)  
+[Ссылка на видео-запись]()  
+
 ```txt
 
 ```
