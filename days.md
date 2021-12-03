@@ -125,8 +125,10 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 **02.12.2021**  
 **Как начать решать задачи на Питоне.**  
 
+Диалог с пользователем  
+Задача №6 ЕГЭ 2022  
+[Ссылка на видео-запись](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1638448795692)  
 [Блокнот с решениями](https://colab.research.google.com/drive/1pTvWKworXWMfVYC6PWsHCdqnpeKDGx54?usp=sharing)  
-[Ссылка на видео-запись]()  
 
 ```txt
 
