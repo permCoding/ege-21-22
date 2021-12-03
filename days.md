@@ -143,9 +143,12 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 
 Уровень средний и выше среднего.  
 Файлы, Циклы, Задачи: 9, 12, 17  
-[Ссылка на видео-запись](https://)  
+Разбираем решение задачи 12  
+Решаем самостоятельно в [Степике задачи](https://stepik.org/lesson/625992/step/2?unit=621728)  по этой же теме  
+Разбираем способы решения (Excel, Python) задачи 9  
+Решаем [задачу 17 на sdamgia](https://inf-ege.sdamgia.ru/test?theme=423)  
+[Ссылка на видео-запись занятия](https://)  
 [Блокнот с решениями](https://colab.research.google.com/drive/1pTvWKworXWMfVYC6PWsHCdqnpeKDGx54?usp=sharing)  
-
 
 ```txt
 
