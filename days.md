@@ -139,16 +139,17 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 ## day07  
 
 **04.12.2021**  
-**Решение задач.**  
+**Решение задач 9, 12, 17.**  
 
 Уровень средний и выше среднего.  
 Файлы, Циклы, Задачи: 9, 12, 17  
-Разбираем решение задачи 12  
+Разбираем решение задачи 12 (вручную, Python)  
 Решаем самостоятельно в [Степике задачи](https://stepik.org/lesson/625992/step/2?unit=621728)  по этой же теме  
 Разбираем способы решения (Excel, Python) задачи 9  
+Разбираем способы решения (Excel, Python) задачи 17  
 Решаем [задачу 17 на sdamgia](https://inf-ege.sdamgia.ru/test?theme=423)  
 [Ссылка на видео-запись занятия](https://)  
-[Блокнот с решениями](https://colab.research.google.com/drive/1pTvWKworXWMfVYC6PWsHCdqnpeKDGx54?usp=sharing)  
+[Блокнот Задача 12 с решениями](https://colab.research.google.com/drive/1ANDsJowz_mdmGa1TyPnRK855oFBUwUAt?usp=sharing)  
 
 ```txt
 
