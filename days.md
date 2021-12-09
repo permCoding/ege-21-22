@@ -20,6 +20,7 @@
 | [day05](#day05) | ...  |  
 | [day06](#day06) | ...  |  
 | [day07](#day07) | ...  |  
+| [day08](#day08) | ...  |  
 
 ---  
 
@@ -150,6 +151,15 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 Решаем [задачу 17 на sdamgia](https://inf-ege.sdamgia.ru/test?theme=423)  
 [Ссылка на видео-запись занятия](https://)  
 [Блокнот Задача 12 с решениями](https://colab.research.google.com/drive/1ANDsJowz_mdmGa1TyPnRK855oFBUwUAt?usp=sharing)  
+
+---  
+
+## day08  
+
+**09.12.2021**  
+**Как работать с файлами.**  
+
+[Ссылка на видео-запись]()  
 
 ```txt
 
