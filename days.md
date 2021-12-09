@@ -160,6 +160,7 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 **Как работать с файлами.**  
 
 [Ссылка на видео-запись]()  
+Задачи 9, 17 с сайта [sdamgia](https://inf-ege.sdamgia.ru/)  
 
 ```txt
 
