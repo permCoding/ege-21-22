@@ -1,3 +1,6 @@
+'''
+генератор тестов для задачи №17
+'''
 from random import randint
 
 with open('data.txt', 'w') as f:
@@ -5,4 +8,3 @@ with open('data.txt', 'w') as f:
     for _ in range(n):
         num = randint(1, 10000)
         f.write(str(num) +'\n')
-
