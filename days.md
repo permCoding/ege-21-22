@@ -21,6 +21,7 @@
 | [day06](#day06) | ...  |  
 | [day07](#day07) | ...  |  
 | [day08](#day08) | ...  |  
+| [day09](#day09) | ...  |  
 
 ---  
 
@@ -161,6 +162,16 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 
 [Ссылка на видео-запись]()  
 Задачи 9, 17 с сайта [sdamgia](https://inf-ege.sdamgia.ru/)  
+
+---  
+
+## day09  
+
+**16.12.2021**  
+**Как короче написать код: map, filter, reduce, zip.**  
+
+[Ссылка на видео-запись]()  
+[Блокнот - программы с занятия](https://colab.research.google.com/drive/1FNWq3A9r0u3l8yfj_yP5UxuSOQRjdHqa?usp=sharing)  
 
 ```txt
 
