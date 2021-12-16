@@ -170,7 +170,7 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 **16.12.2021**  
 **Как короче написать код: map, filter, reduce, zip.**  
 
-[Ссылка на видео-запись]()  
+[Ссылка на видео-запись](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1639659057928)  
 [Блокнот - программы с занятия](https://colab.research.google.com/drive/1FNWq3A9r0u3l8yfj_yP5UxuSOQRjdHqa?usp=sharing)  
 
 ```txt
