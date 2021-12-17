@@ -22,6 +22,7 @@
 | [day07](#day07) | ...  |  
 | [day08](#day08) | ...  |  
 | [day09](#day09) | ...  |  
+| [day10](#day10) | ...  | 
 
 ---  
 
@@ -172,6 +173,17 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 
 [Ссылка на видео-запись](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1639659057928)  
 [Блокнот - программы с занятия](https://colab.research.google.com/drive/1FNWq3A9r0u3l8yfj_yP5UxuSOQRjdHqa?usp=sharing)  
+
+## day10  
+
+**18.12.2021**  
+**Задача 26 - (Python, Excel).**  
+
+[Ссылка на видео-запись - тут будет]()  
+Программы и файлы Excel смотреть за текущий день [в репозитории](https://github.com/permCoding/ege-21-22/tree/main/days)  
+Тренируемся решать задачи в Степике по теме предыдущих занятий:  
+- [По задаче 12](https://stepik.org/lesson/625992/step/1?unit=621728)  
+- [По задаче 09](https://stepik.org/lesson/626386/step/1?unit=622137)  
 
 ```txt
 
