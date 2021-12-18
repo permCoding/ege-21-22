@@ -177,8 +177,26 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 ## day10  
 
 **18.12.2021**  
-**Задача 26 - (Python, Excel).**  
+**Разбирали функциональный стиль решения задач.**  
 
+Методы: split, map, filter, reduce + генераторы списков.  
+
+Задача 09 - примеры:  
+https://replit.com/@pCoding/task-09-1#main.py  
+https://replit.com/@pCoding/task-09-2#main.py  
+[Ссылка на видео-запись - тут будет]()  
+
+Тренировка задач в Степике по теме предыдущих занятий:  
+- [По задаче 09](https://stepik.org/lesson/626386/step/1?unit=622137)  
+
+---  
+
+## day1_  
+
+**__.01.2022**  
+**Задача 26 - (Python, Excel).**  
+https://replit.com/@pCoding/task-09-1#main.py  
+https://replit.com/@pCoding/task-09-2#main.py  
 [Ссылка на видео-запись - тут будет]()  
 Программы и файлы Excel смотреть за текущий день [в репозитории](https://github.com/permCoding/ege-21-22/tree/main/days)  
 Тренируемся решать задачи в Степике по теме предыдущих занятий:  
