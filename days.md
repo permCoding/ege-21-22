@@ -184,7 +184,7 @@ https://stepik.org/lesson/423373/step/1?unit=413088
 Задача 09 - примеры:  
 https://replit.com/@pCoding/task-09-1#main.py  
 https://replit.com/@pCoding/task-09-2#main.py  
-[Ссылка на видео-запись - тут будет]()  
+[Ссылка на видео-запись занятия](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1639803198530)  
 
 Тренировка задач в Степике по теме предыдущих занятий:  
 - [По задаче 09](https://stepik.org/lesson/626386/step/1?unit=622137)  
