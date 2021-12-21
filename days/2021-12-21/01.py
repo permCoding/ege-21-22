@@ -11,6 +11,5 @@ def F(x):
     return L, M
 
 
-
-x = int(input())
-print(*F(x))
+print(*F(int(input())))
+input()
