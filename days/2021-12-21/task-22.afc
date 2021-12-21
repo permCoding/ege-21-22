@@ -1,0 +1,23 @@
+<!DOCTYPE AFC>
+<algorithm version="1.2">
+  <branch>
+    <io vars="x"/>
+    <assign dest="Q" src="9"/>
+    <assign dest="L" src="0"/>
+    <pre cond="x >= Q">
+      <branch>
+        <assign dest="L" src="L+1"/>
+        <assign dest="x" src="x - Q"/>
+      </branch>
+    </pre>
+    <assign dest="M" src="x"/>
+    <if cond="M &lt; L">
+      <branch>
+        <assign dest="M" src="L"/>
+        <assign dest="L" src="x"/>
+      </branch>
+      <branch/>
+    </if>
+    <ou vars="L, M"/>
+  </branch>
+</algorithm>
