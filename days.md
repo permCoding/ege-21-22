@@ -208,7 +208,7 @@ https://replit.com/@pCoding/task-09-2#main.py
 
 Тренировка решения простых задач на Степике.  
 
-[Ссылка на видео-запись занятия](https://bbb6.psaa.ru/)  
+[Ссылка на видео-запись занятия](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1640091434742)  
 
 ---  
 
