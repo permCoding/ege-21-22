@@ -27,4 +27,4 @@ while a1 <= R:
         else:
             max_d = max(max_d, a2-a1)
 
-print(round(max_d,2))
+print(round(max_d, 2))

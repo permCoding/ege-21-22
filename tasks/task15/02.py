@@ -12,13 +12,17 @@ d = 80 - 17
 a1 = 4
 while a1 <= 31:
     a1 += 0.1
+
     a2 = a1
     while a2 <= 31:
         a2 += 0.1
+
         b = True
+        
         x = 4
         while x <= 31:
             x += .1
+            
             if not check(x, a1, a2):
                 b = False
                 break
