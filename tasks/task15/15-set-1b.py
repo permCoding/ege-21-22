@@ -18,7 +18,7 @@ for i in range(len(z)+1):
     for combo in combinations(z,i):
         subsets.append(set(combo))
 
-d = 0
+count = 0
 for a in subsets:
     for x in z:
         f1 = (x in a) <= (x in p)
@@ -28,6 +28,6 @@ for a in subsets:
             break
     else:
         print(a)
-        d = max(d,len(a))
+        count = max(count,len(a))
 
-print(d)
+print(count)

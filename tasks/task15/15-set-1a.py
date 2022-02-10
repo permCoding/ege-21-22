@@ -15,7 +15,7 @@ z = p.union(q)
 
 lst = reduce(lambda P, x: P + [subset | {x} for subset in P], z, [set()])
 
-d = 0
+count = 0
 for a in lst:
     for x in z:
         f1 = (x in a) <= (x in p)
@@ -24,6 +24,6 @@ for a in lst:
         if not f:
             break
     else:
-        d = max(d,len(a))
+        count = max(count,len(a))
 
-print(d)
+print(count)

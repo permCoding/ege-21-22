@@ -11,23 +11,21 @@ p = {2, 4, 6, 8, 10, 12}
 q = {3, 6, 9, 12, 15}
 z = p.union(q)
 
+def f(x):
+    return (x in p) <= (((x in q) and (x not in a)) <= (x not in p))
+
+
 subsets = []
 for i in range(len(z)+1):
     for combo in combinations(z,i):
         subsets.append(set(combo))
 
-d = 999999  # будем искать наименьшее
+sm = 999999  # будем искать наименьшее
 for a in subsets:
-    for x in z:
-        f = (x in p) <= (((x in q) and (x not in a)) <= (x not in p))
-        if not f:
-            break
-    else:
-        d = min(d,len(a))
-        if len(a) == 2:
-            print(a)
-            print(sum(a))
+    lst = [f(x) for x in z]
+    if all(lst):
+        sm = min(sm,sum(a))
 
-print(d)
+print(sm)
 
 # +++
