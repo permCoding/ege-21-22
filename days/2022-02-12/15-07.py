@@ -20,7 +20,7 @@ p = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20}
 q = {3, 6, 9, 12, 15, 18, 21, 24, 27, 30}
 r = p.union(q)
 
-subsets = []  # списко всех подмножеств из r
+subsets = []  # список всех подмножеств из r
 for count in range(len(r)+1):
     for combo in combinations(r, count):
         subsets.append(combo)
