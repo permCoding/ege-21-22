@@ -8,7 +8,11 @@ def all_(lst):
 
 
 def any_(lst):
-    return True
+    for item in lst:
+        if item: 
+            return True
+    else: 
+        return False
 
 
 lst = [True, False, True]
