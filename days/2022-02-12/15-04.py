@@ -12,12 +12,11 @@ def f(x, lt, rt):
     return f1 <= (f2 <= (not f1))
 
 
-st = 2
+st = 1
 d = 9999999
 for lt in range(160, 810, st):
     for rt in range(lt+st, 810, st):
-        lst = [f(x/10,lt/10,rt/10) for x in range(160, 810, st)]
-        if all(lst):
+        if all(f(x/10,lt/10,rt/10) for x in range(160, 810, st)):
             d = min(d,rt-lt)
 
 print(round(d/10, 2))
