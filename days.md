@@ -14,8 +14,8 @@
 | 2021  | 2022 |
 | ---- | ---- |
 | [day01](#day01) | [day13](#day13) |  
-| [day02](#day02) | [day14](#day14)  |  
-| [day03](#day03) | ...  |  
+| [day02](#day02) | [day14](#day14) |  
+| [day03](#day03) | [day15](#day15) |  
 | [day04](#day04) | ...  |  
 | [day05](#day05) | ...  |  
 | [day06](#day06) | ...  |  
@@ -253,11 +253,21 @@ https://replit.com/@pCoding/task-09-2#main.py
 
 **05.02.2022**  
 **Задача 02, 15**  
-[Ссылка на видео-запись - тут будет]()  
+[Ссылка на видео-запись](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1644035777656)  
 Решения за текущий день: [в репозитории](https://github.com/permCoding/ege-21-22/tree/main/days)  
 Тренируемся решать задачи в Степике по теме предыдущих занятий:  
 - [По задаче 12](https://stepik.org/lesson/625992/step/1?unit=621728)  
 - [По задаче 09](https://stepik.org/lesson/626386/step/1?unit=622137)  
+
+---  
+
+## day15  
+
+**12.02.2022**  
+**Задачи __**  
+[Ссылка на видео-запись](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1644640821118)  
+Решения за текущий день: [в репозитории](https://github.com/permCoding/ege-21-22/tree/main/days)  
+
 ---  
 
 ## day1_  
