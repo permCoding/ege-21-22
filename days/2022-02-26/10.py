@@ -20,18 +20,19 @@
 Ответ:
 2'''
 
+
 def get(nums, n, k):
     for i in range(n):
         pair = k - nums[i]
-        left, right = i+1, n-1
+        left, right = i + 1, n - 1
         while left < right:
-            middle = left + (right-left)//2
+            middle = left + (right - left) // 2
             if nums[middle] == pair:
                 return nums[i], nums[middle]
             if nums[middle] < pair:
-                left = middle+1
+                left = middle + 1
             else:
-                right = middle-1
+                right = middle - 1
     return -1
 
 
