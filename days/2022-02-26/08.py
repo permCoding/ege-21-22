@@ -41,3 +41,5 @@ print(count)
 
 finish = monotonic()
 print(finish-start)
+
+# метод с хранением промежуточных результатов

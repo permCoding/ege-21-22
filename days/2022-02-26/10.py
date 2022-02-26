@@ -1,6 +1,7 @@
 ''' Дано некоторое целое число k.  
 Дан отсортированный список целых неповторяющихся чисел.  
-Необходимо найти количество пар чисел из списка, сумма которых равна числу k.
+Необходимо найти пару чисел из списка, сумма которых равна числу k.
+Если же такой пары нет, то вывести -1.
 
 В первой строке ввода подаётся целое число -500 <= **k** <= +500.
 Во второй строке ввода подаётся количество чисел в отсортированном списке 500 <= **n** <= 1000.
@@ -19,7 +20,20 @@
 Ответ:
 2'''
 
-from time import monotonic
+def get(nums, n, k):
+    for i in range(n):
+        pair = k - nums[i]
+        left, right = i+1, n-1
+        while left < right:
+            middle = left + (right-left)//2
+            if nums[middle] == pair:
+                return nums[i], nums[middle]
+            if nums[middle] < pair:
+                left = middle+1
+            else:
+                right = middle-1
+    return -1
+
 
 f = open("./input.txt")
 k = int(f.readline())
@@ -27,18 +41,6 @@ n = int(f.readline())
 nums = list(map(int, f.readline().split()))
 f.close()
 
-start = monotonic()
+print(*get(nums, n, k))
 
-count = 0
-for i in range(0, n-1):
-    for j in range(i+1, n):
-        pair = nums[i] + nums[j]
-        if pair == k:
-            count += 1
-            # print(nums[i], nums[j])
-print(count)
-
-finish = monotonic()
-print(finish-start)
-
-# метод полного перебора
+# метод бинарного поиска
