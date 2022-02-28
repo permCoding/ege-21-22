@@ -280,7 +280,7 @@ https://replit.com/@pCoding/task-09-2#main.py
 
 - кроме того порешаем задачу про пару чисел - подготовка к заключительным задачам  
 
-[Ссылка на видео-запись будет тут]()  
+[Ссылка на видео-запись](https://bbb6.psaa.ru/playback/presentation/2.3/362fc2f5c1c5dc26faa8bdc93c061426df82cba8-1645850736331)  
 Решения за текущий день: [в репозитории](https://github.com/permCoding/ege-21-22/tree/main/days)  
 
 ---  
