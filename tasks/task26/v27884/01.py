@@ -1,4 +1,4 @@
-with open("./27884.txt") as f:
+with open("./27884.txt") as f:  # 26
     lines = f.readlines()
 
 s, n = map(int, lines[0].split())
