@@ -14,5 +14,8 @@ https://inf-ege.sdamgia.ru/problem?id=38961
 https://inf-ege.sdamgia.ru/test?theme=415  
 
 ```txt
-
+for while len split 
+open readline readlines
+map filter [:]
+max min sort sorted lambda
 ```
