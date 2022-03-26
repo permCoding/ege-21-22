@@ -11,14 +11,14 @@
 
 ---  
 
-| 2021  | 2022 |
+| 2021 | 2022 |
 | ---- | ---- |
 | [day01](#day01) | [day13](#day13) |  
 | [day02](#day02) | [day14](#day14) |  
 | [day03](#day03) | [day15](#day15) |  
 | [day04](#day04) | [day16](#day16) |  
 | [day05](#day05) | [day17](#day17) |  
-| [day06](#day06) | ...  |  
+| [day06](#day06) | [day18](#day18) |  
 | [day07](#day07) | ...  |  
 | [day08](#day08) | ...  |  
 | [day09](#day09) | ...  |  
@@ -295,9 +295,28 @@ https://replit.com/@pCoding/task-09-2#main.py
 
 ---  
 
+# day 18  
+
+**26.03.2022**  
+**Задачи 27, 18, 17**  
+
+27  
+https://inf-ege.sdamgia.ru/problem?id=41002  
+https://inf-ege.sdamgia.ru/problem?id=40743  
+https://inf-ege.sdamgia.ru/problem?id=39256  
+https://inf-ege.sdamgia.ru/problem?id=38961  
+
+18  
+
+17  
+
+---  
+
+---  
+
 ## day1_  
 
-**__.01.2022**  
+**__.04.2022**  
 **Задача 26 - (Python, Excel).**  
 https://replit.com/@pCoding/task-09-1#main.py  
 https://replit.com/@pCoding/task-09-2#main.py  

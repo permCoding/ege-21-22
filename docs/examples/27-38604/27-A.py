@@ -9,9 +9,7 @@
 f = open("27_B.txt")
 n = int(f.readline())
 
-max_sm, min_ln = 0, n
-sm = 0
-INF = n * 10000
+sm, max_sm, min_ln = 0, 0, n
 lst = [0] * 43
 pos = [-1] * 43
 for i in range(n):
