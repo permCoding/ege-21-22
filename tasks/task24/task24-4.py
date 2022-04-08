@@ -1,17 +1,13 @@
-'''
-https://inf-ege.sdamgia.ru/problem?id=27421
-Текстовый файл состоит не более чем из 10^6 символов X, Y и Z. 
+# https://inf-ege.sdamgia.ru/problem?id=27421
+# https://inf-ege.sdamgia.ru/problem?id=27690
+'''файл состоит не более чем из 10^6 символов X, Y и Z. 
 Определите максимальное кол-во идущих подряд символов, 
-среди которых каждые два соседних различны.
-Пример строки:
-YYXYZXX
-Ответ: 5
-'''
-f = open('24-4.txt')
+среди которых каждые два соседних различны.'''
+# f = open('24-4.txt')
+f = open('./24_27690.txt')
 line = f.readline()
 
-count = 1
-mcount = 0
+count, mcount = 1, 0
 for i in range(1, len(line)):
     if line[i-1] == line[i]:
         count = 1
