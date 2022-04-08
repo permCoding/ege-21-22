@@ -10,6 +10,7 @@ def f19(a, b, p):
     b4 = f19(a,b*3,p)
     return b1 or b2 or b3 or b4
 
+
 for s in range(1, 101):
     if f19(6,s,0):
         print(s)
