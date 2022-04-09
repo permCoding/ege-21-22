@@ -13,4 +13,6 @@ https://inf-ege.sdamgia.ru/problem?id=27421
 https://replit.com/@pCoding/task24-27421  
 https://replit.com/join/fbavtqcqdm-pcoding  
 
-
+27689  
+https://inf-ege.sdamgia.ru/problem?id=27689  
+https://replit.com/@pCoding/task24-27689  
