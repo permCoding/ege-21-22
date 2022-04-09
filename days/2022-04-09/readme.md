@@ -16,3 +16,11 @@ https://replit.com/join/fbavtqcqdm-pcoding
 27689  
 https://inf-ege.sdamgia.ru/problem?id=27689  
 https://replit.com/@pCoding/task24-27689  
+
+---  
+
+Задача 19  
+
+https://replit.com/@pCoding/19-01  
+https://replit.com/@pCoding/19-02  
+https://replit.com/@pCoding/19-03  
