@@ -19,7 +19,7 @@
 | [day04](#day04) | [day16](#day16) |  
 | [day05](#day05) | [day17](#day17) |  
 | [day06](#day06) | [day18](#day18) |  
-| [day07](#day07) | ...  |  
+| [day07](#day07) | [day19](#day19) |  
 | [day08](#day08) | ...  |  
 | [day09](#day09) | ...  |  
 | [day10](#day10) | ...  | 
@@ -295,10 +295,10 @@ https://replit.com/@pCoding/task-09-2#main.py
 
 ---  
 
-# day 18  
+## day 18  
 
 **26.03.2022**  
-**Задачи 27, 18, 17**  
+**Задача 27**  
 
 27  
 https://inf-ege.sdamgia.ru/problem?id=41002  
@@ -306,11 +306,36 @@ https://inf-ege.sdamgia.ru/problem?id=40743
 https://inf-ege.sdamgia.ru/problem?id=39256  
 https://inf-ege.sdamgia.ru/problem?id=38961  
 
-18  
+---  
 
-17  
+## day 19  
+
+**09.04.2022**  
+**Задачи 24, 19**  
+
+задача 24  
+
+36879  
+https://inf-ege.sdamgia.ru/problem?id=36879  
+https://replit.com/@pCoding/task24-36879  
+https://replit.com/@pCoding/task24-36879-1  
+https://replit.com/@pCoding/task24-36879-2  
+
+27421  
+https://inf-ege.sdamgia.ru/problem?id=27421  
+https://replit.com/@pCoding/task24-27421  
+https://replit.com/join/fbavtqcqdm-pcoding  
+
+27689  
+https://inf-ege.sdamgia.ru/problem?id=27689  
+https://replit.com/@pCoding/task24-27689  
 
 ---  
+
+Задача 19  
+
+https://replit.com/@pCoding/19-01  
+https://replit.com/@pCoding/19-02  
 
 ---  
 
