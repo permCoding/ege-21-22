@@ -4,9 +4,9 @@ https://github.com/permCoding/ege-21-22
 
 36879  
 https://inf-ege.sdamgia.ru/problem?id=36879  
-https://replit.com/@pCoding/task24-36879
-https://replit.com/@pCoding/task24-36879-1
-https://replit.com/@pCoding/task24-36879-2
+https://replit.com/@pCoding/task24-36879  
+https://replit.com/@pCoding/task24-36879-1  
+https://replit.com/@pCoding/task24-36879-2  
 
 
 
