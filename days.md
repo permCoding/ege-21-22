@@ -295,7 +295,7 @@ https://replit.com/@pCoding/task-09-2#main.py
 
 ---  
 
-## day 18  
+## day18  
 
 **26.03.2022**  
 **Задача 27**  
@@ -308,7 +308,7 @@ https://inf-ege.sdamgia.ru/problem?id=38961
 
 ---  
 
-## day 19  
+## day19  
 
 **09.04.2022**  
 **Задачи 24, 19**  
