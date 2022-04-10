@@ -2,6 +2,8 @@
 
 **учебный год 2021-2022**  
 
+[ДНИ ЗАНЯТИЙ И ИЗУЧАЕМЫЕ ВОПРОСЫ](days.md)  
+
 Объем дисциплины - 194 часа на учебный год, из них:  
 
 - количество аудиторных часов - 124;  
@@ -9,26 +11,18 @@
 
 ```txt  
 Расписание пар:  
-10:00 - 11:20  
-11:30 - 12:50  
-13:00 - 14:20  
+10:00 - 11:30  
+11:45 - 13:15  
+13:30 - 14:30  
 ```  
-
-[ДНИ ЗАНЯТИЙ И ИЗУЧАЕМЫЕ ВОПРОСЫ](days.md)  
 
 ---  
 
 ### БЕЛЯКОВ Андрей Юрьевич  
-[![VK](https://pcoding.ru/ico/vk.png)](https://vk.com/permCube) 
 [![telegram](https://pcoding.ru/ico/telegram.png)](https://t.me/AndreyPerm) 
+[![VK](https://pcoding.ru/ico/vk.png)](https://vk.com/permCube) 
 
 --- 
-
-### [Наша группа в ВК](https://vk.com/algohack)  
-### [Контрольные работы на Степике](https://stepik.org/63529)  
-### [Сайт для решения задач ЕГЭ inf-ege.sdamgia](https://inf-ege.sdamgia.ru/)  
-### [Сайт Константина Полякова](https://kpolyakov.spb.ru/school/ege/tests.htm)  
----
 
 ### Дистанционные занятия тут:  
 
@@ -36,6 +30,11 @@
 * [Через BBB3, если не работает сервер BBB6](https://bbb3.psaa.ru/b/crk-eif-gxb-wz5)  
 * [Через Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)  
 * [Через Discord](https://discord.gg/ZK4kgdn)  
+
+### [Наша группа в ВК](https://vk.com/algohack)  
+### [Контрольные работы на Степике](https://stepik.org/63529)  
+### [Сайт для решения задач ЕГЭ inf-ege.sdamgia](https://inf-ege.sdamgia.ru/)  
+### [Сайт Константина Полякова](https://kpolyakov.spb.ru/school/ege/tests.htm)  
 
 ---
 
