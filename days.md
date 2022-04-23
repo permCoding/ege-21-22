@@ -339,6 +339,29 @@ https://replit.com/@pCoding/19-02
 
 ---  
 
+## day19  
+
+**23.04.2022**  
+**Задачи 19,20,21**  
+
+разбор задач:  
+https://github.com/permCoding/ege-21-22/tree/main/days/2022-04-23  
+примеры решений:  
+https://replit.com/@pCoding/t27805  
+https://replit.com/@pCoding/t36874  
+
+---  
+
+## day20  
+
+**__.04.2022**  
+**Задачи 19,20,21**  
+
+с усложнённой формулировкой  
+https://inf-ege.sdamgia.ru/problem?id=40995  
+
+---  
+
 ## day1_  
 
 **__.04.2022**  
