@@ -354,11 +354,21 @@ https://replit.com/@pCoding/t36874
 
 ## day21  
 
-**__.04.2022**  
-**Задачи 19,20,21**  
+**30.04.2022**  
+**Задачи 19,20,21,27**  
 
-с усложнённой формулировкой  
+- может начнём рассматривать досрок  
+
+1) 19 20 21 - с усложнённой формулировкой  
 https://inf-ege.sdamgia.ru/problem?id=40995  
+
+2) 27  
+https://inf-ege.sdamgia.ru/problem?id=38961  
+https://inf-ege.sdamgia.ru/problem?id=39256  
+https://inf-ege.sdamgia.ru/problem?id=38604  
+https://inf-ege.sdamgia.ru/problem?id=37162  
+https://inf-ege.sdamgia.ru/problem?id=41002  
+https://inf-ege.sdamgia.ru/problem?id=40743  
 
 ---  
 
