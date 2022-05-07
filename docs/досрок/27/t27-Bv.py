@@ -1,4 +1,4 @@
-f = open("./27-B.txt")
+f = open("./27-A.txt")
 n = int(f.readline())
 a = [int(x) for x in f]
 
