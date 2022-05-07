@@ -14,8 +14,8 @@ p_pred = sum(a[_i:])  # a[_i]*1 + a[_i+1]*1
 p_next = sum(a[1:_i])  # a[1]*1 + a[2]*1
 
 for i in range(1, n):
-    p_pred += -a[_i] + a[i-1]  # тут была ошибка
-    p_next += +a[_i] - a[i]  # тут была ошибка
+    p_pred += -a[_i] + a[i-1]  # тут была ошибка p_pred = ...
+    p_next += +a[_i] - a[i]  # тут была ошибка p_next = ...
     tm_p += p_pred - p_next - a[i]
     _i += 1
     if _i == n: _i = 0
